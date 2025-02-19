@@ -19,3 +19,11 @@ Developed an object and keypoint detection model to analyze spacesuit movements 
 Developed a remote sensing time series model to classify crops in the Western Cape of South Africa using Sentinel-2 satellite multi-spectral multi-temporal images.
 
 #
+
+#
+<img align="left" width="250" height="150" src="images/sentinel.jpg"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge/)**
+
+Developed a model to detect lung graft rejection in transbronchial biopsies. The model could serve as a medical decision support tool to diagnose transplant failures thereby improving outcomes for lung transplant recipients.
+
+#
+
