@@ -11,7 +11,9 @@ The goal was to develop a robust algorithm for predicting melanoma recurrence us
 <img align="left" width="250" height="150" src="images/sentinel.jpg"> **[Spot the Crop Challenge (Radiant Earth Foundation)](https://medium.com/radiant-earth-insights/data-challenge-winner-q-a-with-raphael-kiminya-bda56c54fe3e)**
 
 Developed a remote sensing time series model to classify crops in the Western Cape of South Africa using Sentinel-2 satellite multi-spectral multi-temporal images.
+
 #
+
 ---
 
 <img align="left" width="250" height="150" src="images/digilut.png"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge/)**
