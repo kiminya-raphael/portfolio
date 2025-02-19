@@ -30,7 +30,7 @@ The goal was to forecast air pollutant levels in urban areas. I extracted and in
 
 <img align="left" width="250" height="150" src="images/soundscapes.png"> **[Soundscapes Challenge (National Geospatial-Intelligence Agency)](https://www.soundscapeschallenge.com)**
 
-Developed an audio classifier to geo-locate non-speech ambient sound recordings, improving the ability to determine the origin of video and audio recordings on Earth.
+Developed an audio classifier to geo-locate non-speech ambient sound recordings from 9 major cities. The model will improve the ability to determine the origin of audio recordings on Earth.
 
 ---
 #
