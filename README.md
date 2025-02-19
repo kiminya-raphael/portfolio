@@ -21,7 +21,7 @@ Developed a remote sensing time series model to classify crops in the Western Ca
 #
 
 #
-<img align="left" width="250" height="150" src="images/sentinel.jpg"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge/)**
+<img align="left" width="250" height="150" src="images/digilut.png"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge/)**
 
 Developed a model to detect lung graft rejection in transbronchial biopsies. The model could serve as a medical decision support tool to diagnose transplant failures thereby improving outcomes for lung transplant recipients.
 
