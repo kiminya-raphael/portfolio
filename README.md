@@ -54,7 +54,7 @@ Developed an object and keypoint detection model to analyze spacesuit movements 
 
 <img align="left" width="250" height="150" src="images/beluga.png"> **[Beluga Whale Identification (Bureau of Ocean Energy Management)](https://drivendata.co/blog/belugas-winners)**
 
-Developed an individual identification model to track Cook Inlet belugas, an endangered population of beluga whales. The model enables conservationists to identify and monitor individual whales using images captured by drones and vessels. Wildlife researchers can leverage this technology to estimate population size and assess health. This method is less invasive, costly, and labor-intensive compared to traditional techniques like physically tagging animals.
+An individual identification model to track Cook Inlet belugas, an endangered population of beluga whales. The model enables conservationists to identify and monitor individual whales using images captured by drones and vessels. Wildlife researchers can leverage this technology to estimate population size and assess health. This method is less invasive, costly, and labor-intensive compared to traditional techniques like physically tagging animals.
 
 ---
 
