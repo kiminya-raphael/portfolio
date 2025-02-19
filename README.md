@@ -58,6 +58,13 @@ An individual identification model to track Cook Inlet belugas, an endangered po
 
 ---
 
+#
+
+<img align="left" width="250" height="150" src="images/jet_class.jpg"> **[High-Energy Particle Classification](https://github.com/kiminya-raphael/High-Energy-Particle-Classification-with-Graph-Neural-Networks)**
+
+The goal was to categorize jets in high-energy proton-proton collision events. I represented jets as particle clouds and used Graph Neural Networks to capture their internal structure based on energy, momentum, and decay patterns.
+
+---
 
 
 
