@@ -46,11 +46,17 @@ The solution is deployed in the [CyFi: Cyanobacteria Finder package](https://cyf
 
 <img align="left" width="250" height="150" src="images/spacesuit.jpg"> **[Spacesuit Detection Challenge (NASA)](https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88?tab=details)**
 
-Developed an object and keypoint detection model to analyze spacesuit movements during spacewalks, enabling accurate posture extraction without the need for motion capture cameras.
+Developed an object and keypoint detection model to analyze spacesuit movements during spacewalks. The model enables accurate posture extraction without the need for motion capture cameras.
 
 ---
 
+#
 
+<img align="left" width="250" height="150" src="images/beluga.png"> **[Beluga Whale Identification (Bureau of Ocean Energy Management)](https://drivendata.co/blog/belugas-winners)**
+
+Developed an individual identification model to track Cook Inlet belugas, an endangered population of beluga whales. The model enables conservationists to identify and monitor individual whales using images captured by drones and vessels. Wildlife researchers can leverage this technology to estimate population size and assess health. This method is less invasive, costly, and labor-intensive compared to traditional techniques like physically tagging animals.
+
+---
 
 
 
