@@ -2,7 +2,7 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="images/melanoma.jpg"> **[VisioMel Challenge: Predicting Melanoma Relapse](https://drivendata.co/blog/visiomel-melanoma-winners)**
+<img align="left" width="250" height="150" src="images/melanoma.jpg"> **[VisioMel Challenge (French Society of Pathology)](https://drivendata.co/blog/visiomel-melanoma-winners)**
 
 The goal was to develop a robust algorithm for predicting melanoma recurrence using digitized pathology slides and clinical data. First, I trained a model to identify key relapse prognostic factors - Breslow depth and ulceration - from Whole Slide Images. I then integrated these factors with patient metadata to train the final replapse prediction model.
 
@@ -16,7 +16,7 @@ Developed a remote sensing time series model to classify crops in the Western Ca
 
 ---
 
-<img align="left" width="250" height="150" src="images/digilut.png"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge/)**
+<img align="left" width="250" height="150" src="images/digilut.png"> **[DigiLut Challenge (Foch Hospital)](https://github.com/kiminya-raphael/Digilut-Challenge)**
 
 Developed a model to detect lung graft rejection in transbronchial biopsies. The model could serve as a medical decision support tool to diagnose transplant failures thereby improving outcomes for lung transplant recipients.
 
@@ -28,15 +28,23 @@ The goal was to forecast air pollutant levels in urban areas. I extracted and in
 
 ---
 
-<img align="left" width="250" height="150" src="images/soundscapes.png"> **[Soundscapes Challenge (National Geospatial-Intelligence Agency)](https://www.soundscapeschallenge.com/)**
+<img align="left" width="250" height="150" src="images/soundscapes.png"> **[Soundscapes Challenge (National Geospatial-Intelligence Agency)](https://www.soundscapeschallenge.com)**
 
 Developed an audio classifier to geo-locate non-speech ambient sound recordings, improving the ability to determine the origin of video and audio recordings on Earth.
+
+---
+#
+
+<img align="left" width="250" height="150" src="images/cyfi.jpeg"> **[Harmful Algal Bloom Detection (NASA)](https://drivendata.co/blog/tick-tick-bloom-challenge-winners)**
+
+Developed a model to identify areas at risk of harmful algal blooms in lakes, reservoirs, rivers, and other inland water bodies using Landsat and Sentinel-2 satellite imagery to measure cyanobacteria concentrations.
+The solution is deployed in the [CyFi: Cyanobacteria Finder package](https://cyfi.drivendata.org/)
 
 ---
 
 #
 
-<img align="left" width="250" height="150" src="images/spacesuit.jpg"> **[NASA Spacesuit Detection Challenge](https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88?tab=details)**
+<img align="left" width="250" height="150" src="images/spacesuit.jpg"> **[Spacesuit Detection Challenge (NASA)](https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88?tab=details)**
 
 Developed an object and keypoint detection model to analyze spacesuit movements during spacewalks, enabling accurate posture extraction without the need for motion capture cameras.
 
