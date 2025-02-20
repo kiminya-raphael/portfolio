@@ -8,6 +8,13 @@ The goal was to develop a robust algorithm for predicting melanoma recurrence us
 
 ---
 
+<img align="left" width="250" height="150" src="images/cervical_biopsy.jpg"> **[TissueNet: Detect Lesions in Cervical Biopsies (French Society of Pathology)](https://drivendata.co/blog/tissuenet-cervical-biopsies-winners/)**
+
+
+A model to detect and classify cervical epithelial lesions from whole slide images, ranking them by severity from benign to low malignant potential, high malignant potential, and invasive cancer. The dataset comprised thousands of WSIs from medical centers across France. This model enhances tumor subtype classification and could serve as a diagnostic aid for pathologists, improving cervical cancer detection and treatment decisions.
+
+---
+
 <img align="left" width="250" height="150" src="images/sentinel.jpg"> **[Spot the Crop Challenge (Radiant Earth Foundation)](https://medium.com/radiant-earth-insights/data-challenge-winner-q-a-with-raphael-kiminya-bda56c54fe3e)**
 
 Developed a remote sensing time series model to classify crops in the Western Cape of South Africa using Sentinel-2 satellite multi-spectral multi-temporal images.
