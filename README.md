@@ -15,6 +15,14 @@ A model to detect and classify cervical epithelial lesions from whole slide imag
 
 ---
 
+<img align="left" width="250" height="150" src="images/panda.png"> **[Prostate cANcer graDe Assessment (PANDA) (Radboud University Medical Center)](https://www.kaggle.com/c/prostate-cancer-grade-assessment)**
+
+Model for diagnosis and grading of prostate cancer from microscopy scans of prostate biopsy samples
+
+<br/>
+<br/>
+
+---
 <img align="left" width="250" height="150" src="images/sentinel.jpg"> **[Spot the Crop Challenge (Radiant Earth Foundation)](https://medium.com/radiant-earth-insights/data-challenge-winner-q-a-with-raphael-kiminya-bda56c54fe3e)**
 
 Developed a remote sensing time series model to classify crops in the Western Cape of South Africa using Sentinel-2 satellite multi-spectral multi-temporal images.
