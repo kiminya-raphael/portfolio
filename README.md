@@ -4,20 +4,20 @@
 
 <img align="left" width="250" height="150" src="images/melanoma.jpg"> **[VisioMel Challenge (French Society of Pathology)](https://drivendata.co/blog/visiomel-melanoma-winners)**
 
-The goal was to develop a robust algorithm for predicting melanoma recurrence using digitized pathology slides and clinical data. First, I trained a model to identify key relapse prognostic factors - Breslow depth and ulceration - from Whole Slide Images. I then integrated these factors with patient metadata to train the final replapse prediction model.
+The goal was to develop a robust algorithm for predicting melanoma recurrence using digitized pathology slides and clinical data. I trained a model to identify key relapse prognostic factors - Breslow depth and ulceration - from Whole Slide Images, then integrated these factors with patient metadata to train the final replapse prediction model.
 
 ---
 
 <img align="left" width="250" height="150" src="images/cervical_biopsy.jpg"> **[TissueNet: Detect Lesions in Cervical Biopsies (French Society of Pathology)](https://drivendata.co/blog/tissuenet-cervical-biopsies-winners/)**
 
 
-A model to detect and classify cervical epithelial lesions from whole slide images, ranking them by severity from benign to low malignant potential, high malignant potential, and invasive cancer. The dataset comprised thousands of WSIs from medical centers across France. This model enhances tumor subtype classification and could serve as a diagnostic aid for pathologists, improving cervical cancer detection and treatment decisions.
+Developed a model to detect and classify cervical epithelial lesions from whole slide images, ranking them by severity from benign to low malignant potential, high malignant potential, and invasive cancer. The dataset comprised thousands of WSIs from medical centers across France. This model enhances tumor subtype classification and could serve as a diagnostic aid for pathologists, improving cervical cancer detection and treatment decisions.
 
 ---
 
 <img align="left" width="250" height="150" src="images/panda.png"> **[Prostate cANcer graDe Assessment (PANDA) (Radboud University Medical Center)](https://www.kaggle.com/c/prostate-cancer-grade-assessment)**
 
-Model for diagnosis and grading of prostate cancer from microscopy scans of prostate biopsy samples
+Developed a model for diagnosis and grading of prostate cancer from microscopy scans of prostate biopsy samples
 
 <br/>
 <br/>
