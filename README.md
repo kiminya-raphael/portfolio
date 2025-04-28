@@ -13,14 +13,6 @@ The goal was to develop a robust algorithm for predicting melanoma recurrence us
 
 Developed a model to detect and classify cervical epithelial lesions from whole slide images, ranking them by severity from benign to low malignant potential, high malignant potential, and invasive cancer. The dataset comprised thousands of WSIs from medical centers across France. This model enhances tumor subtype classification and could serve as a diagnostic aid for pathologists, improving cervical cancer detection and treatment decisions.
 
----
-
-<img align="left" width="250" height="150" src="images/panda.png"> **[Prostate cANcer graDe Assessment (PANDA) (Radboud University Medical Center)](https://www.kaggle.com/c/prostate-cancer-grade-assessment)**
-
-Developed a model for diagnosis and grading of prostate cancer from microscopy scans of prostate biopsy samples
-
-<br/>
-<br/>
 
 ---
 <img align="left" width="250" height="150" src="images/sentinel.jpg"> **[Spot the Crop Challenge (Radiant Earth Foundation)](https://medium.com/radiant-earth-insights/data-challenge-winner-q-a-with-raphael-kiminya-bda56c54fe3e)**
@@ -97,3 +89,9 @@ Developed a model to detect lung graft rejection in transbronchial biopsies. The
 
 ---
 
+<img align="left" width="250" height="150" src="images/panda.png"> **[Prostate cANcer graDe Assessment (PANDA) (Radboud University Medical Center)](https://www.kaggle.com/c/prostate-cancer-grade-assessment)**
+
+Developed a model for diagnosis and grading of prostate cancer from microscopy scans of prostate biopsy samples
+
+<br/>
+<br/>
