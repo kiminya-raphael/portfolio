@@ -83,7 +83,7 @@ An individual identification model to track Cook Inlet belugas, an endangered po
 
 <img align="left" width="250" height="150" src="images/ksl.png"> **[Task Mate Kenyan Sign Language Classification)](https://zindi.africa/competitions/kenyan-sign-language-classification-challenge)**
 
-Trained a CNN model to classify Kenyan Sign Language (KSL) words from image data. The model was designed to recognize distinct hand gestures representing various KSL words, contributing to accessible communication technologies.
+Trained a CNN to classify Kenyan Sign Language (KSL) words from image data. The model was designed to recognize distinct hand gestures representing various KSL words, contributing to accessible communication technologies.
 
 <br/>
 
